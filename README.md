@@ -1,4 +1,4 @@
-Check free [demo](https://imager.nblx.me/)
+Check free [demo](https://dimasivan.github.io/imager/)
 
 ## Available Scripts
 
